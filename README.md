@@ -3,6 +3,6 @@
 
 Machine learning codes for educational purpose; these codes might be helpful for those who are starting in the beautiful field of Data science. 
 
-Big data: Big data refers to data sets so large and complex that traditional data management and analysis tools are not adequate to handle them.
-
-Big data characteristics (5Vs):
+Big data: Big data refers to data sets so large and complex that traditional data management and analysis tools are not adequate to handle them.\
+Big data characteristics (5Vs):\
+-Velocity: 
